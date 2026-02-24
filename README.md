@@ -1,4 +1,4 @@
-# 🖐️ HandyCodes — Gesture-Controlled Code Editor
+#  HandyCodes — Gesture-Controlled Code Editor
 
 > A real-time hand gesture recognition system that lets you **write and execute Python code using only hand gestures** — no keyboard needed.
 
